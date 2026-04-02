@@ -61,7 +61,7 @@ screenshots
 1. clone the repository:
 
 - git clone
-
+  https://github.com/yogarajc77/personal-portofolio-website.git
 
 2. Open to Folder:
 
