@@ -46,11 +46,11 @@ Protfolio
 
 screenshots
 
-  - home.png
+  - ./home.png
   - about.png
   - biodata.png
-  - education-contact.png
   - skils-projects.png
+  - education-contact.png
 
     README.md
 
