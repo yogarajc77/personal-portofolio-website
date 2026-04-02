@@ -12,7 +12,7 @@ A personal portfolio website to showcase my skills, projects, and contact inform
 ##  Screenshots
 
 ###  Home Section
-![Home](./home.png)
+![Home](home.png)
 
 ###  About Section
 ![About](about.png)
@@ -46,7 +46,7 @@ Protfolio
 
 screenshots
 
-  - ./home.png
+  - home.png
   - about.png
   - biodata.png
   - skils-projects.png
