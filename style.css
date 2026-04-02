@@ -1,0 +1,128 @@
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+background:#f5f7fa;
+color:#333;
+}
+
+/* Navbar */
+
+header{
+background:#111;
+color:white;
+padding:15px 50px;
+position:fixed;
+width:100%;
+}
+
+nav{
+display:flex;
+justify-content:space-between;
+}
+
+nav ul{
+display:flex;
+list-style:none;
+}
+
+nav ul li{
+margin-left:20px;
+}
+
+nav ul li a{
+color:white;
+text-decoration:none;
+}
+
+/* Hero Section */
+
+.home{
+height:100vh;
+background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+url('https://images.unsplash.com/photo-1518770660439-4636190af475');
+background-size:cover;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+}
+
+.home span{
+color:#00bcd4;
+}
+
+.btn{
+display:inline-block;
+margin-top:20px;
+padding:10px 20px;
+background:#00bcd4;
+color:white;
+text-decoration:none;
+}
+
+/* Sections */
+
+section{
+padding:100px 50px;
+}
+
+h2{
+text-align:center;
+margin-bottom:30px;
+}
+
+/* Skills */
+
+.skills-container{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+}
+
+.skill-box{
+background:#00bcd4;
+color:white;
+padding:10px 20px;
+margin:10px;
+border-radius:5px;
+}
+
+/* Projects */
+
+.project{
+background:white;
+padding:20px;
+margin:15px 0;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Education */
+
+.education-box{
+text-align:center;
+background:white;
+padding:20px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Contact */
+
+#contact{
+text-align:center;
+}
+
+/* Footer */
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:20px;
+}
